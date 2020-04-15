@@ -9,7 +9,7 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 ```
 
 # DEMO 
-![User Directory Demo](userdirectory/assets/demo.gif)
+![User Directory Demo](assets/demo.gif)
 
 ## Installation
 
